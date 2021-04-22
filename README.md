@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Description
+A collection of songs sung by software developers while socializing.
 
-You can use the [editor on GitHub](https://github.com/EyeOfMidas/codeshanties/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Pragma Platform - Code in the Repo ([Sugar in the Hold](https://soundcloud.com/thelongestjohns/13-sugar-in-the-hold))
+> Well I wish I was in Culver City  
+Shipping games and making money  
+But I'm pushing code to the main repo  
+repo, repo, repo  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **Hey ho, repo repo  
+Pushing code to the main repo  
+Hey ho, repo repo  
+Pushing code to the main repo**  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EyeOfMidas/codeshanties/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> Well the platform team, we're a tough ole bunch  
+Making sure our code's real fine  
+Can refactor clean any legacy line  
+Pushing code to the main repo  
+>
+> Hey ho, repo repo  
+Pushing code to the main repo  
+Hey ho, repo repo  
+Pushing code to the main repo  
+>
+> Well the CX devs fix the SDK  
+"Tell Old Cobb we've got bad news  
+Unreal updates give us the blues"  
+Pushing code to the main repo  
+>
+> Hey ho, repo repo  
+Pushing code to the main repo  
+Hey ho, repo repo  
+Pushing code to the main repo  
+>
+> Well the infra scales and the code has docs  
+API's got examples too  
+Eden's hype is true, this stack's for you  
+pushing code to your repo  
+>
+> Hey ho, repo repo  
+Pushing code to the main repo  
+Hey ho, repo repo  
+Pushing code to the main repo  
+>
+> Hey ho, repo repo  
+Pushing code to the main repo  
+Hey ho, repo repo  
+Pushing code to the main repo  
