@@ -1,4 +1,5 @@
 ## Pragma Platform - Code in the Repo ([Sugar in the Hold](https://soundcloud.com/thelongestjohns/13-sugar-in-the-hold))
+<sub> Submitted by [@eyeofmidas](https://github.com/EyeOfMidas/) 2021-04-22</sub>
 > Well I wish I was in Culver City  
 Shipping games and making money  
 But I'm pushing code to the main repo  
