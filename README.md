@@ -1,6 +1,3 @@
-# Description
-A collection of songs sung by software developers while socializing.
-
 ## Pragma Platform - Code in the Repo ([Sugar in the Hold](https://soundcloud.com/thelongestjohns/13-sugar-in-the-hold))
 > Well I wish I was in Culver City  
 Shipping games and making money  
@@ -46,3 +43,7 @@ Pushing code to the main repo
 Pushing code to the main repo  
 Hey ho, repo repo  
 Pushing code to the main repo  
+
+
+# I have a song!
+If you'd like your song hosted on Code Shanties, please submit an [Issue](https://github.com/EyeOfMidas/codeshanties/issues/new/choose) or [Pull Request](https://github.com/EyeOfMidas/codeshanties/compare) and I can add it!
