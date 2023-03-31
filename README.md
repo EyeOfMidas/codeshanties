@@ -1,5 +1,35 @@
 # Code Shanties
 
+## Launch the Platform
+<sub>Submitted by [@eyeofmidas](https://github.com/EyeOfMidas/) 2023-03-31</sub>
+> Yo ho, all hands  
+Deploy the platform live  
+Heave ho, infra and devs  
+Never thrashing the drive  
+>
+> Some launches have died  
+and others survived  
+though the best are feeling carefree  
+With Pragma installed  
+And the 'zon to pay  
+we turn all our CI green.  
+>
+> Yo ho, all hands  
+Deploy the platform live  
+Heave ho, infra and devs  
+Never thrashing the drive  
+>
+> Old Cobb will remark  
+we beat Byte, Fab and Sparks  
+with stats up on honeycomb  
+The servers be ours to save gamedev hours  
+Our platform you'll call home  
+>
+> Yo ho, all hands  
+Deploy the platform live  
+Heave ho, infra and devs  
+Never thrashing the drive  
+
 ## The Tokens Library - The Process Sleeps Tonight ([The Lion Sleeps Tonight](https://www.youtube.com/watch?v=OQlByoPdG6c)) - ver .9b
 <sub> Submitted by [@DukeHastMich](https://github.com/DukeHastMich) 2022-08-04</sub>
 <sub> in collaboration with [@JenMsft](https://twitter.com/JenMsft)</sub>
